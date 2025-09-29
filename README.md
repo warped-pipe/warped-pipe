@@ -1,6 +1,6 @@
                                         
 - 👋 Howdy, I’m @warped-pipe
-- 👀 I’m interested in DIY, open source software, GNU/Linux, permaculture, aquaponics, and homesteading topics of many kinds! Self sufficiency!
+- 👀 I’m interested in space, satellites, DIY, open source software, GNU/Linux, motorcycles, permaculture, aquaponics, and homesteading topics of many kinds! Self sufficiency!
 - 🌱 I’m currently learning Python, Javascript. Also hardware hacking, + building automation systems.
 - 💞️ I’m looking to collaborate on permaculture, aquaponics, and automated farming projects!
 - 📫 How to reach me ... brennanminer@protonmail.com
